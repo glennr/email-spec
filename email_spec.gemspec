@@ -4,14 +4,14 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{email_spec}
+  s.name = %q{glennr-email_spec}
   s.version = "0.3.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ben Mabey", "Aaron Gibralter", "Mischa Fierer"]
   s.date = %q{2009-10-08}
   s.description = %q{Easily test email in rspec and cucumber}
-  s.email = %q{ben@benmabey.com}
+  s.email = %q{ben@benmabey.com, g@glenn-roberts.com}
   s.extra_rdoc_files = [
     "MIT-LICENSE.txt",
      "README.rdoc"
