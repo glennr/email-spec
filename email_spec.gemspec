@@ -149,7 +149,6 @@ Gem::Specification.new do |s|
      "examples/sinatra/features/errors.feature",
      "examples/sinatra/features/example.feature",
      "examples/sinatra/features/step_definitions",
-     "examples/sinatra/features/step_definitions/email_steps.rb",
      "examples/sinatra/features/step_definitions/user_steps.rb",
      "examples/sinatra/features/step_definitions/webrat_steps.rb",
      "examples/sinatra/features/support",
